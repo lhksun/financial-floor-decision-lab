@@ -81,20 +81,20 @@ This structure maps directly to a multi-user database schema. Every row in the l
 
 | Metric | Value |
 |---|---|
-| Safe Layer Target | $2,500,000 |
-| Safe Layer Progress | 5.9% |
-| Baseline Floor Age | 61 |
-| Years to Stability | 23 |
+| Safe Layer Target | $1,050,000 |
+| Safe Layer Progress | 14.1% |
+| Baseline Floor Age | 51 |
+| Years to Stability | 13 |
 | Survival Months | 6.4 |
 
 **Scenario comparison:**
 
 | Scenario | Floor Age | Delta |
 |---|---|---|
-| Baseline | 61 | — |
-| Career Break 1yr | 61 | +0 |
-| Grad School 2yr | 62 | +1 |
-| Family Planning | 61 | +0 |
+| Baseline | 51 | — |
+| Career Break 1yr | 51 | +0 |
+| Grad School 2yr | 52 | +1 |
+| Family Planning | 51 | +0 |
 
 ---
 
@@ -104,7 +104,7 @@ This structure maps directly to a multi-user database schema. Every row in the l
 Single-user working prototype. All calculations live in Excel formulas — no Python, no macros. Error count: 0. Formula count: 2,186.
 
 What works:
-- Financial Floor Age (confirmed at 61 vs. expected 61 ✓)
+- Financial Floor Age (confirmed at 51 vs. expected 51 ✓)
 - Scenario comparison across 4 scenarios × 40-year projection
 - CF waterfall: surplus → retirement → goals → residual cash = $0
 - All views derived from a single projection engine
