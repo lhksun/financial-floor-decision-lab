@@ -180,6 +180,14 @@ The schema is already normalized for that migration. Adding `user_id` to the mas
 
 ## Live Dashboard
 
+## Dashboard Screenshots
+
+### Page 1 — Where Am I Today
+![Where Am I](images/page1_where_am_i.png)
+
+### Page 2 — What If
+![What If](images/page2_what_if.png)
+
 Looker Studio report (sample data):  
 [Financial Floor — Executive View](https://lookerstudio.google.com/reporting/c8a3698c-821c-4670-a1e2-48ac1da1e6ba)
 
