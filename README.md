@@ -1,6 +1,6 @@
 # Financial Floor Decision Lab
 
-**A constraint-based personal finance planning prototype.**  
+**A system that defines when you become financially safe — and how decisions change that timeline.**  
 Built to answer one question: *When do I become financially safe — and how do life decisions change that timeline?*
 
 ---
@@ -95,6 +95,13 @@ This structure maps directly to a multi-user database schema. Every row in the l
 | Career Break 1yr | 51 | +0 |
 | Grad School 2yr | 52 | +1 |
 | Family Planning | 51 | +0 |
+
+---
+
+## Key Insight
+
+Financial planning becomes simple once constraints are clearly defined.
+Most decisions do not materially change the financial floor — but a few do.
 
 ---
 
