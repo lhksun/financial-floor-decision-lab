@@ -1,4 +1,4 @@
-# financial-floor-decision-lab
+# Financial Floor Decision Lab
 
 Most finance tools answer: *How much do you have?*
 
